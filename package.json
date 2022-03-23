@@ -1,5 +1,5 @@
 {
-  "name": "electron-devtools-installer",
+  "name": "@axosoft/electron-devtools-installer",
   "version": "0.0.0-development",
   "description": "An easy way to install Dev Tools extensions into Electron applications",
   "main": "dist/index.js",
